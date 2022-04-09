@@ -1,0 +1,2 @@
+# VRChatSphereCam
+直接用shader在VRChat里实现360度全景视频录制！
