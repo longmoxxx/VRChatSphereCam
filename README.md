@@ -34,4 +34,4 @@
 
 
 ****
-# 详细的教程近期会在[bilibili@欧阳大鸽子](https://space.bilibili.com/338134956)和Github上发布
+## 详细的视频教程已在[bilibili@欧阳大鸽子](https://space.bilibili.com/338134956)发布！目前暂时没有写图文教程的打算，视频讲的很详细了
