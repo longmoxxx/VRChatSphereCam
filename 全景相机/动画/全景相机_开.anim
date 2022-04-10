@@ -33,7 +33,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: "\u4E16\u754C\u4F4D\u7F6E/\u62FE\u53D6\u4F4D\u7F6E/\u7269\u54C1/SphereCam"
+    path: "\u4E16\u754C\u4F4D\u7F6E/\u62FE\u53D6\u4F4D\u7F6E/\u7269\u54C1/\u5168\u666F\u76F8\u673A"
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -89,7 +89,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: "\u4E16\u754C\u4F4D\u7F6E/\u62FE\u53D6\u4F4D\u7F6E/\u7269\u54C1/SphereCam"
+    path: "\u4E16\u754C\u4F4D\u7F6E/\u62FE\u53D6\u4F4D\u7F6E/\u7269\u54C1/\u5168\u666F\u76F8\u673A"
     classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves: []
